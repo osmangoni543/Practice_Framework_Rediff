@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-08T15:09:52 EDT" name="Default Suite" finished-at="2023-10-08T15:10:47 EDT" duration-ms="54540">
+    <groups>
+    </groups>
+    <test started-at="2023-10-08T15:09:52 EDT" name="Practice_Framework" finished-at="2023-10-08T15:10:47 EDT" duration-ms="54540">
+      <class name="com.qa.rediff.TestCases.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.rediff.TestCases.LoginTest@4278a03f]" started-at="2023-10-08T15:09:53 EDT" name="setup" finished-at="2023-10-08T15:09:58 EDT" duration-ms="4980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithValidCredentials(java.lang.String,java.lang.String)[pri:1, instance:com.qa.rediff.TestCases.LoginTest@4278a03f]" started-at="2023-10-08T15:09:58 EDT" name="verifyLoginWithValidCredentials" data-provider="Rediff" finished-at="2023-10-08T15:10:02 EDT" duration-ms="3351" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda@rediffmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidCredentials -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.rediff.TestCases.LoginTest@4278a03f]" started-at="2023-10-08T15:10:02 EDT" name="teardown" finished-at="2023-10-08T15:10:02 EDT" duration-ms="277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.rediff.TestCases.LoginTest@4278a03f]" started-at="2023-10-08T15:10:02 EDT" name="setup" finished-at="2023-10-08T15:10:05 EDT" duration-ms="3538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithValidCredentials(java.lang.String,java.lang.String)[pri:1, instance:com.qa.rediff.TestCases.LoginTest@4278a03f]" started-at="2023-10-08T15:10:05 EDT" name="verifyLoginWithValidCredentials" data-provider="Rediff" finished-at="2023-10-08T15:10:09 EDT" duration-ms="3503" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda1@rediffmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Donkey@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidCredentials -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.rediff.TestCases.LoginTest@4278a03f]" started-at="2023-10-08T15:10:09 EDT" name="teardown" finished-at="2023-10-08T15:10:09 EDT" duration-ms="264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.rediff.TestCases.LoginTest@4278a03f]" started-at="2023-10-08T15:10:09 EDT" name="setup" finished-at="2023-10-08T15:10:13 EDT" duration-ms="3960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithValidCredentials(java.lang.String,java.lang.String)[pri:1, instance:com.qa.rediff.TestCases.LoginTest@4278a03f]" started-at="2023-10-08T15:10:13 EDT" name="verifyLoginWithValidCredentials" data-provider="Rediff" finished-at="2023-10-08T15:10:18 EDT" duration-ms="5236" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chowdhurygs@rediffmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Shajlee1@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidCredentials -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.rediff.TestCases.LoginTest@4278a03f]" started-at="2023-10-08T15:10:18 EDT" name="teardown" finished-at="2023-10-08T15:10:19 EDT" duration-ms="233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.rediff.TestCases.LoginTest@4278a03f]" started-at="2023-10-08T15:10:19 EDT" name="setup" finished-at="2023-10-08T15:10:22 EDT" duration-ms="3729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithValidCredentials(java.lang.String,java.lang.String)[pri:1, instance:com.qa.rediff.TestCases.LoginTest@4278a03f]" started-at="2023-10-08T15:10:22 EDT" name="verifyLoginWithValidCredentials" data-provider="Rediff" finished-at="2023-10-08T15:10:28 EDT" duration-ms="5678" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[homa_rahimi@rediffmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Winter2021?]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidCredentials -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.rediff.TestCases.LoginTest@4278a03f]" started-at="2023-10-08T15:10:28 EDT" name="teardown" finished-at="2023-10-08T15:10:28 EDT" duration-ms="230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.rediff.TestCases.LoginTest@4278a03f]" started-at="2023-10-08T15:10:28 EDT" name="setup" finished-at="2023-10-08T15:10:32 EDT" duration-ms="3436" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithValidEmailInvalidPassword()[pri:2, instance:com.qa.rediff.TestCases.LoginTest@4278a03f]" started-at="2023-10-08T15:10:32 EDT" name="verifyLoginWithValidEmailInvalidPassword" finished-at="2023-10-08T15:10:32 EDT" duration-ms="692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidEmailInvalidPassword -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.rediff.TestCases.LoginTest@4278a03f]" started-at="2023-10-08T15:10:32 EDT" name="teardown" finished-at="2023-10-08T15:10:33 EDT" duration-ms="233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.rediff.TestCases.LoginTest@4278a03f]" started-at="2023-10-08T15:10:33 EDT" name="setup" finished-at="2023-10-08T15:10:36 EDT" duration-ms="3600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithInvalidEmailValidPassword()[pri:3, instance:com.qa.rediff.TestCases.LoginTest@4278a03f]" started-at="2023-10-08T15:10:36 EDT" name="verifyLoginWithInvalidEmailValidPassword" finished-at="2023-10-08T15:10:37 EDT" duration-ms="597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInvalidEmailValidPassword -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.rediff.TestCases.LoginTest@4278a03f]" started-at="2023-10-08T15:10:37 EDT" name="teardown" finished-at="2023-10-08T15:10:37 EDT" duration-ms="258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.rediff.TestCases.LoginTest@4278a03f]" started-at="2023-10-08T15:10:37 EDT" name="setup" finished-at="2023-10-08T15:10:41 EDT" duration-ms="3544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithInvalidCredentials()[pri:4, instance:com.qa.rediff.TestCases.LoginTest@4278a03f]" started-at="2023-10-08T15:10:41 EDT" name="verifyLoginWithInvalidCredentials" finished-at="2023-10-08T15:10:42 EDT" duration-ms="1287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInvalidCredentials -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.rediff.TestCases.LoginTest@4278a03f]" started-at="2023-10-08T15:10:42 EDT" name="teardown" finished-at="2023-10-08T15:10:42 EDT" duration-ms="255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.rediff.TestCases.LoginTest@4278a03f]" started-at="2023-10-08T15:10:42 EDT" name="setup" finished-at="2023-10-08T15:10:47 EDT" duration-ms="4361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithNoCredentials()[pri:5, instance:com.qa.rediff.TestCases.LoginTest@4278a03f]" started-at="2023-10-08T15:10:47 EDT" name="verifyLoginWithNoCredentials" finished-at="2023-10-08T15:10:47 EDT" duration-ms="105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithNoCredentials -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.rediff.TestCases.LoginTest@4278a03f]" started-at="2023-10-08T15:10:47 EDT" name="teardown" finished-at="2023-10-08T15:10:47 EDT" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.rediff.TestCases.LoginTest -->
+    </test> <!-- Practice_Framework -->
+  </suite> <!-- Default Suite -->
+</testng-results>

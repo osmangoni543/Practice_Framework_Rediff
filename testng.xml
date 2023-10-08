@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="MyTestSuite">
+    <listeners>
+        <listener
+                class-name="com.qa.rediff.Listeners.MyListeners" />
+    </listeners>
+    <test name="MyTest">
+        <classes>
+            <class name="com.qa.rediff.TestCases.LoginTest" />
+            <!-- Add more test classes as needed -->
+        </classes>
+    </test>
+</suite>
